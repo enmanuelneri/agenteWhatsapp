@@ -7,7 +7,7 @@ import openai
 
 # Configura tu clave de API y endpoint de Azure OpenAI
 openai.api_type = "azure"
-openai.api_key = "2B4gI3oPGOxKwDCtgDgEzGln1WaX4UnKOUt9np3vIJyblPlWgd5KJQQJ99BEACYeBjFXJ3w3AAABACOGM5UF"
+
 openai.api_base = "https://aopenaidpw.openai.azure.com/"
 openai.api_version = "2025-05-05-preview"  # Ajusta según la versión de tu recurso
 
