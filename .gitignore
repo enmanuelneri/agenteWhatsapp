@@ -1,0 +1,23 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos de configuración locales
+*.env
+*.log
+
+# Archivos de compilación
+*.zip
+*.tar.gz
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Dependencias instaladas
+*.egg-info/
